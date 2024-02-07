@@ -1,0 +1,12 @@
+C:\osh\winform\OJT\OJT\bin\Release\OJT.exe.config
+C:\osh\winform\OJT\OJT\bin\Release\OJT.exe
+C:\osh\winform\OJT\OJT\bin\Release\OJT.pdb
+C:\osh\winform\OJT\OJT\obj\Release\OJT.csproj.AssemblyReference.cache
+C:\osh\winform\OJT\OJT\obj\Release\OJT.Form1.resources
+C:\osh\winform\OJT\OJT\obj\Release\OJT.Manual_Test.resources
+C:\osh\winform\OJT\OJT\obj\Release\OJT.Model_Edit.resources
+C:\osh\winform\OJT\OJT\obj\Release\OJT.Properties.Resources.resources
+C:\osh\winform\OJT\OJT\obj\Release\OJT.csproj.GenerateResource.cache
+C:\osh\winform\OJT\OJT\obj\Release\OJT.csproj.CoreCompileInputs.cache
+C:\osh\winform\OJT\OJT\obj\Release\OJT.exe
+C:\osh\winform\OJT\OJT\obj\Release\OJT.pdb

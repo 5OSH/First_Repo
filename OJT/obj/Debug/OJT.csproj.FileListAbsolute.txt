@@ -1,0 +1,14 @@
+C:\osh\winform\OJT\OJT\bin\Debug\OJT.exe.config
+C:\osh\winform\OJT\OJT\bin\Debug\OJT.exe
+C:\osh\winform\OJT\OJT\bin\Debug\OJT.pdb
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.csproj.AssemblyReference.cache
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.Form1.resources
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.Properties.Resources.resources
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.csproj.GenerateResource.cache
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.csproj.CoreCompileInputs.cache
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.exe
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.pdb
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.Model_Edit.resources
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.Manual_Test.resources
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.Warning.resources
+C:\osh\winform\OJT\OJT\obj\Debug\OJT.Ng_codes.resources
